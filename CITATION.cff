@@ -3,10 +3,9 @@ message: "If you use the data or code from this repository, please cite it as fo
 authors:
   - family-names: "Liu"
     given-names: "Zhenjie"
-    # orcid: "https://orcid.org/0000-0000-0000-0000" # 如果你有ORCID，建议加上
 title: "Luminosity–Dependent Assembly Bias of Brightest Cluster Galaxies from Weak Lensing and Clustering"
 version: 1.0.0
-# doi: "10.5281/zenodo.XXXXX" # 如果你在Zenodo关联了仓库，请在此处填入DOI
+doi: "10.5281/zenodo.18140021"
 date-released: 2026-01-03
 url: "https://github.com/load666/arXiv_2510.21377-results_data"
 repository-code: "https://github.com/load666/arXiv_2510.21377-results_data"
